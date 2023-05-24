@@ -469,7 +469,7 @@
            font-size:.8em;
            border-radius:3px;
            box-shadow:0 0 0 4px rgba(0,0,0,.2) inset;
-           bottom:0;
+          /* bottom:0; */
            right:30px;
            transition:all .3s ease-out;
 
